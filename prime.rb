@@ -7,3 +7,7 @@ def prime?(num)
         true
     end
 end
+
+# def prime?(num)
+#     num.is_prime?
+# end
